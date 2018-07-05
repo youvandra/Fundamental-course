@@ -1,7 +1,7 @@
 # Fundamental-course
 contoh kode script fundamental
 
-## test penggunaan git
+## Test penggunaan git
 ## Menggunakan git dengan Command line
 - Buat SSH keys
 - Upload ke github
@@ -13,3 +13,7 @@ contoh kode script fundamental
 - Kirim perubahan ke github dengan git push
   
 ## Menggunkan git dengan PyCharm
+
+- Membuka project yang sudah di clone di command line
+- Merubah file
+- Mengirim file ke github
